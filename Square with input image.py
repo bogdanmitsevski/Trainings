@@ -23,3 +23,4 @@ print('area =',count)
 
 
 
+#"image.jpg" file must be in same directory with ".py" main file
